@@ -22,7 +22,7 @@ GOOGLE_OAUTH_SCOPES = [
 ]
 
 # --- Google Sheets Configuration ---
-SPREADSHEET_ID = os.environ.get("19Q4dJcmuOeNwI_PAD3VJXqSpZ4HNUMmfba4xMq_QtoY")
+SPREADSHEET_ID = os.environ.get("")
 SHEET_RANGE = "Sheet1!A:Z"
 
 # --- Firebase Configuration ---
